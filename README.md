@@ -1,2 +1,2 @@
 # moved
-Moved on https://github.com
+Moved on https://github.com/kendarorg
